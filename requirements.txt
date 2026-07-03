@@ -1,2 +1,7 @@
 openai>=1.0.0
 python-dotenv
+streamlit
+Pillow
+ImageHash
+face_recognition
+numpy
